@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "karpathy",
+  "repo": "makemore",
+  "versions": [
+    {
+      "commit": "988aa59e4d8fefa526d06f3b453ad116258398d4",
+      "parsed_at": "2026-10-17T08:09:21.734998+00:00",
+      "filetree": "filetree/988aa59e4d8fefa526d06f3b453ad116258398d4.nq.gz",
+      "blobs": [
+        "blob/329db5e33310fd5d98343e2bca690bfb07317526.nq.gz",
+        "blob/603b94140e5e11a60e6962992da00e31a742b241.nq.gz",
+        "blob/db0fe4c1e071b05573f9bd73040e9a29410cb3db.nq.gz",
+        "blob/736d88e18b70b292750a30e5cca6a92b0b333bd2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
