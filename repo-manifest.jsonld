@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/karpathy/makemore/commit/988aa59e4d8fefa526d06f3b453ad116258398d4",
       "git:hexsha": "988aa59e4d8fefa526d06f3b453ad116258398d4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T08:11:09.672896+00:00"
     }
   ]
 }
