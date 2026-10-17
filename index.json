@@ -1,0 +1,11 @@
+{
+  "org": "karpathy",
+  "repo": "makemore",
+  "versions": [
+    {
+      "commit": "988aa59e4d8fefa526d06f3b453ad116258398d4",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:11:09.673345+00:00"
+    }
+  ]
+}
